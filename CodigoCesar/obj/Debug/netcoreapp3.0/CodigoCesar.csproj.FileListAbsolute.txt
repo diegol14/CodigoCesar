@@ -1,0 +1,32 @@
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfoInputs.cache
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfo.cs
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.exe
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.deps.json
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.json
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.dev.json
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.pdb
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Diegol\source\repos\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.pdb
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.exe
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.deps.json
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.json
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.dev.json
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.pdb
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.csprojAssemblyReference.cache
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfoInputs.cache
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfo.cs
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.pdb
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.exe
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.deps.json
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.json
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.dev.json
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.pdb
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.csprojAssemblyReference.cache
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfoInputs.cache
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfo.cs
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Diegol\Documents\Ilerna\Ilerna 1 Semestre\Programación\Pac_UF2_Pereira_Sotelo_Diego-Leonel-ProgramacionA\Pac_UF2_Pereira_Sotelo_Diego-Leonel\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.pdb
